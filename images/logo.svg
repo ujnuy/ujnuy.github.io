@@ -1,0 +1,25 @@
+<!-- 임시 로고(원본 로고 파일로 교체 예정) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <path id="s" d="M0,-1 L.235,-.324 L.951,-.309 L.38,.124 L.588,.809 L0,.4 L-.588,.809 L-.38,.124 L-.951,-.309 L-.235,-.324Z"/>
+  </defs>
+  <use href="#s" transform="translate(28 30) scale(6)" fill="#2B7BBF"/>
+  <use href="#s" transform="translate(44 18) scale(5.5)" fill="#D8408E"/>
+  <use href="#s" transform="translate(62 12) scale(6.5)" fill="#2B7BBF"/>
+  <use href="#s" transform="translate(60 32) scale(7)" fill="#F2B21B"/>
+  <use href="#s" transform="translate(80 20) scale(5.5)" fill="#D8408E"/>
+  <!-- 왼쪽 사람(주황) -->
+  <circle cx="22" cy="52" r="6.5" fill="#F2A31B"/>
+  <path d="M20 64 Q22 96 56 104" stroke="#F2A31B" stroke-width="9" stroke-linecap="round"/>
+  <!-- 가운데 사람(분홍) -->
+  <circle cx="50" cy="50" r="6.5" fill="#D8408E"/>
+  <path d="M48 62 Q46 84 54 100" stroke="#D8408E" stroke-width="9" stroke-linecap="round"/>
+  <path d="M34 64 Q52 76 70 60" stroke="#D8408E" stroke-width="6" stroke-linecap="round"/>
+  <!-- 작은 사람(노랑) -->
+  <circle cx="66" cy="70" r="4.5" fill="#F2B21B"/>
+  <path d="M64 78 Q60 90 62 98" stroke="#F2B21B" stroke-width="5" stroke-linecap="round"/>
+  <!-- 오른쪽 사람(청록) -->
+  <circle cx="92" cy="40" r="6.5" fill="#1C7FA6"/>
+  <path d="M98 52 Q104 92 62 104" stroke="#1C7FA6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M104 46 L112 34" stroke="#1C7FA6" stroke-width="5" stroke-linecap="round"/>
+</svg>
